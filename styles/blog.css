@@ -1,0 +1,20 @@
+.blog{
+    color: rgb(251, 255, 255);
+    background-color: rgba(0, 0, 0, 0.778);
+    font-weight: 200;
+    font-style: oblique;}
+.line{ color: rgb(0, 0, 0);
+        text-decoration: underline;
+    }
+h1{color: rgb(6, 30, 30);}
+.header{ 
+    height: 200px;
+    color: azure;
+    background-image: url('../chill.jpg');
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-size: 30% 100% ;
+    background-image: url('../itc.jpg');
+
+
+}
